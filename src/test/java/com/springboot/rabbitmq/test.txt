@@ -1,5 +1,0 @@
-
-localhost:8080/simpleQueue
-localhost:8080/workQueue
-localhost:8080/workQueue
-localhost:8080/direct
